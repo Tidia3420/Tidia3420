@@ -6,7 +6,7 @@
   - On Discord, @Tidia#3420, 
   - Via mail, mathis.vanhoecke.pro@gmail.com
 
-
+___________________________________
 - 👋 Bonjour, je suis @Tidia3420 !
 - 👀 Je suis intéressé par la programmation back-end, spécifiquement sur des projets JAVA et PHP.
 - 🌱 Je suis actuellement en train d'apprendre JAVA, PHP, JavaScript et leurs frameworks associés.
